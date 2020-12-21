@@ -1,4 +1,4 @@
-#  Registro de Datos V1 y V2
+#  Registro de Datos V1, V2 y V3
 ___  
 ###  Objetivos:
 -Capturar: Cedula, Edad, Nombre y Apellido.
